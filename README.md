@@ -9,8 +9,6 @@ A Claude Code skill that rewrites AI-padded text so it is short, direct and soun
 /plugin install unslop@kapicic
 ```
 
-The repo is private, so you need read access to it and working GitHub credentials (`gh auth login`).
-
 ## Use
 
 ```

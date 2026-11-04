@@ -42,7 +42,7 @@ Clauses bolted on with — dashes — and (parentheses) until the main claim is 
 "Leverage", "utilize", "landscape", "ecosystem", "surface" (as a noun), "posture", "calculus", "load-bearing", "stakeholders", "cohort", "alignment", "learnings". Name the actual thing: the people, the customers, the API, the decision.
 
 ## 10. Nominalizations and passive voice without an actor
-"Perform an investigation of" → "investigate". "A decision was made to roll back" → "We rolled back" (or "Matt rolled back" — the actor is often a ledger item).
+"Perform an investigation of" → "investigate". "A decision was made to roll back" → "We rolled back" (or "Alex rolled back" — the actor is often a ledger item).
 
 ## 11. Decorative structure
 Emoji section markers, a callout box per paragraph, bold on every bullet lead, H2s over two-line sections, a "TL;DR" that repeats the first paragraph, tables with one column of prose. Structure should help the reader find data. Keep tables of numbers, timelines, code, link lists.

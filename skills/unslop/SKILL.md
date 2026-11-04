@@ -39,7 +39,7 @@ Before writing anything, list every piece of information a reader could act on o
 - URLs, ticket/PR/run IDs, keys, flags, code identifiers, file paths
 - decisions and their reasons, asks and action items, next steps
 - causes, conditions, and caveats that change what the reader does ("not verified", "only on EU orgs")
-- scope and status qualifiers — who or what a claim covers ("on teams that have it"), how far along something is ("ready for review" is not "in review"), one result vs a general rule ("reported done" is not "marks done"), who decides ("Matt decides with the owner" is not "they decide"). Shortening drifts these first.
+- scope and status qualifiers — who or what a claim covers ("on teams that have it"), how far along something is ("ready for review" is not "in review"), one result vs a general rule ("reported done" is not "marks done"), who decides ("Alex decides with the owner" is not "they decide"). Shortening drifts these first.
 
 Not information: restatement, transitions, meta-commentary about the document ("this edition", "as noted above"), hedges that name no specific doubt, praise, generic framing.
 
