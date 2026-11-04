@@ -1,0 +1,8 @@
+{
+  "name": "unslop",
+  "version": "0.1.0",
+  "description": "Rewrite AI-sounding text so it is laconic and reads like you wrote it, without losing a fact. Works on raw text, files, artifacts, Notion, Linear, Slack, GitHub and web pages.",
+  "author": { "name": "Stevan Kapicic" },
+  "repository": "https://github.com/kapicic/unslop",
+  "keywords": ["writing", "rewrite", "voice", "editing"]
+}

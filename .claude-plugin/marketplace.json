@@ -1,0 +1,11 @@
+{
+  "name": "kapicic",
+  "owner": { "name": "Stevan Kapicic" },
+  "plugins": [
+    {
+      "name": "unslop",
+      "source": "./",
+      "description": "Rewrite AI-sounding text so it is laconic and reads like you wrote it, without losing a fact."
+    }
+  ]
+}
