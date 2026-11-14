@@ -4,8 +4,10 @@ A Claude Code skill that rewrites AI-padded text so it is short, direct and soun
 
 ## Install
 
+unslop is listed in the [kapicic marketplace](https://github.com/kapicic/claude-skills), with my other skills.
+
 ```
-/plugin marketplace add kapicic/unslop
+/plugin marketplace add kapicic/claude-skills
 /plugin install unslop@kapicic
 ```
 
